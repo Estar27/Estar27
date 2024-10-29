@@ -1,4 +1,4 @@
-[![LinkedIn](https://github.com/Estar27/Estar27/blob/main/Untitled%20design%20(1).png?raw=true)](https://www.linkedin.com/in/esther-abiamuwe-972139224/)
+
  
 ### Hi, I'm Esther Osariemen Abiamuwe
 
