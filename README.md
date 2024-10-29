@@ -5,7 +5,7 @@
 - 👀 I'm a Data Analyst and Scientist who likes to share my learning journey.
 - 🌱 I’m currently learning Data Science with Primo Academy
 - 💞️ I’m seeking collaboration on Data Science and Data Analysis projects, either as a volunteer or otherwise
-- 📫 Feel free to connect with me on my LinkedIn page: https://www.linkedin.com/in/esther-abiamuwe-972139224/.
+- 📫 Feel free to connect with me on my any of my pages
 
 <!---
 Estar27/Estar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
