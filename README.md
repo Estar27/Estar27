@@ -1,5 +1,5 @@
 [![LinkedIn](https://github.com/Estar27/Estar27/blob/main/Untitled%20design%20(2).png?raw=true)](https://www.linkedin.com/in/esther-abiamuwe-972139224/)
- 
+[![Email](https://github.com/Estar27/Estar27/blob/main/Untitled%20design%20(3).png?raw=true)](mailto:Abiamuweesther65@gmail.com)
 ### Hi, I'm Esther Osariemen Abiamuwe
 
 - 👀 I'm a Data Analyst and Scientist who likes to share my learning journey.
